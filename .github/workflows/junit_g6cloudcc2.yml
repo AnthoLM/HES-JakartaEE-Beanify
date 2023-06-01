@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'G6CloudCC2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7DCEFE6A5814778B0A47D31749A5022 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FEE9624D88C40359B4772B7A05AB079 }}
           package: '*.jar'
